@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	const Phat_name := "Pham Hong Phat"
-	var name string
+	// var name string
+	const Phat_name = "Pham Hong Phat"
 	fmt.Println(Phat_name)
 }
